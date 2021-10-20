@@ -1,9 +1,26 @@
 {"intents":[
     {
-        "tag":"greetings",
+        "tag":"greetings ",
         "patterns":["Hi", "How are you","Is there anyone?"," Hello","Good Day","What's up?"],
-        "responses":["Hey! Welcome to Doc.","Hello","Good to see you","How can I help you?"],
-        "context_set": ""
+        "responses":["Hey! Welcome to Doc.","Hello","Good to see you","How can I help you?"]
+    },
+
+    {
+        "tag":"creator",
+        "patterns":["Who are your creators", "Who created you","Tell me the name of your creators"],
+        "responses":["My creators are Ratnesh, Rythm, Rahul, Parv and Somesh. They know all in and out about me."]
+    },
+
+    {
+        "tag":"name",
+        "patterns":["What is your name", "Your name please","Tell me your name"],
+        "responses":["My name is Vaidya👨‍⚕️."]
+    },
+
+    {
+        "tag":"duty",
+        "patterns":["What is your duty", "What is your responsibility","Are you responsible","I think you are a responsible bot"],
+        "responses":["I am a very responsible and my duty is to clear your regarding your queries."]
     },
 
     {
