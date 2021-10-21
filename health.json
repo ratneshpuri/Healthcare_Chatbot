@@ -226,6 +226,211 @@
         "patterns":["How to prevent fungal infection","Preventions for fungal infection","Prevent fungal infection"],
         "responses":["Practice good hygine, don't share clothing, towels, or other personal items, Wear clean clothes every day, particularly socks and underwear, Wear sandals or flip-flops in locker rooms instead of walking with bare feet"],
         "context_set": ""
+    },
+    
+    {
+        "tag":"chicken pox",
+        "patterns":[
+            "I think I have chicken pox",
+            "What is chicken pox?",
+            "Tell me about chicken pox",
+            "Can I have some information about chicken pox?",
+            "How do I support a loved one with chicken pox?",
+            "How do I fix my chicken pox?"
+        ],
+        "responses":[
+            "Chickenpox is a disease caused by the varicella virus. Chickenpox is spread when an infected person coughs or sneezes. It is also spread when someone touches the fluid that comes out of chickenpox blisters."
+        ]
+    },
+    {
+        "tag":"Symptoms of Chicken Pox",
+        "patterns":["What other common signs and symptoms may occur with chicken pox?", "Symptoms of chicken pox","chicken pox"],
+        "responses":["Fever, rash, headache, cough, tiredness, mouth sores"]
+    },
+    {
+        "tag":"Deal Chicken Pox or Manage Chicken Pox",
+        "patterns":["What can I do to manage chickenpox?", "How to deal chickenpox","How to overcome chickenpox?"],
+        "responses":["Acetaminophen decreases pain and fever.", "Antihistamines help decrease itching. The Antihistamines help decrease itching.","Apply calamine lotion on your child's rash","Keep your child away from others"]
+    },
+    {
+        "tag":"Consult doctor regarding Chicken Pox",
+        "patterns":["When should I call my doctor?"],
+        "responses":["The blisters get red, warm, tender, or drain yellow or white fluid.","You have questions or concerns about your child's condition or care"]
+    },
+    {
+        "tag":"dengue",
+        "patterns":[
+            "I think I am suffering from dengue",
+            "What is dengue?",
+            "Tell me about dengue",
+            "Can I have some information about dengue?",
+            "How do I support a loved one with dengue?",
+            "How do I fix my dengue?"
+        ],
+        "responses":[
+            "Dengue is a mosquito-borne viral infection, found in tropical and sub-tropical climates worldwide, mostly in urban and semi-urban areas. While many DENV infections produce only mild illness, DENV can cause an acute flu-like illness. Occasionally this develops into a potentially lethal complication, called severe dengue."
+         ]
+    },
+    {
+        "tag":"Symptoms of Dengue",
+        "patterns":["What other common signs and symptoms may occur with dengue?", "Symptoms of dengue","dengue"],
+        "responses":["Headache","Muscle, bone or joint pain","Severe stomach pain","Fatigue","Nausea","Vomiting","Pain behind the eyes","Swollen glands","Rash"]
+    },
+    {
+        "tag":"Deal Dengue or Manage Dengue",
+        "patterns":["What can I do to manage Dengue?", "How to deal dengue","How to overcome dengue?"],
+        "responses":["Drink plenty of fluids.","Call your doctor "]
+    },
+    {
+        "tag":"Consult doctor regarding Dengue",
+        "patterns":["When should I call my doctor?"],
+        "responses":["Severe dengue fever is a life-threatening medical emergency. Seek immediate medical attention if you've recently visited an area in which dengue fever is known to occur, you have had a fever and you develop any of the warning signs. Warning signs include severe stomach pain, vomiting, difficulty breathing, or blood in your nose, gums, vomit or stools.If you've been traveling recently and develop a fever and mild symptoms of dengue fever, call your doctor."]
+    },
+    
+    {
+        "tag":"hepatitis A",
+        "patterns":[
+            "I think I have hepatitis A",
+            "What is hepatitis A?",
+            "Tell me about hepatitis A",
+            "Can I have some information about hepatitis A?",
+            "How do I support a loved one with hepatitis A?",
+            "How do I fix my hepatitis A?"
+        ],
+        "responses":[
+            "Hepatitis A is an inflammation of the liver that can cause mild to severe illness. The hepatitis A virus (HAV) is transmitted through ingestion of contaminated food and water or through direct contact with an infectious person. The risk of hepatitis A infection is associated with a lack of safe water and poor sanitation and hygiene (such as contaminated and dirty hands)."
+        ]
+    },
+    {
+        "tag":"Symptoms of Hepatitis A",
+        "patterns":["What other common signs and symptoms may occur with Hepatitis A?", "Symptoms of Hepatitis A","Hepatitis A"],
+        "responses":["Low fever","Fatigue","Nausea, vomiting, or loss of appetite","Pain in the right upper side of his or her abdomen","yellow skin and eyes", "itchy skin"]
+    },
+    {
+        "tag":"Deal Hepatitis A or Manage Hepatitis A",
+        "patterns":["What can I do to manage Hepatitis A?", "How to deal Hepatitis A","How to overcome Hepatitis A?"],
+        "responses":["Usually your child will be treated at home. Medicine may not be needed. If your child vomits a lot, he or she may need to go to the hospital to get fluids through an IV. Rest and healthy food will help your child get better."]
+    },
+    {
+        "tag":"Consult doctor regarding Heptitis A",
+        "patterns":["When should I call my doctor?"],
+        "responses":["Your child is vomiting and cannot keep food or liquids down.","Your child is bruising easily.","You have questions or concerns about your child's condition or care"]
+    },
+    {
+        "tag":"hepatitis B",
+        "patterns":[
+            "I think I have hepatitis B",
+            "What is hepatitis B?",
+            "Tell me about hepatitis B",
+            "Can I have some information about hepatitis B?",
+            "How do I support a loved one with hepatitis B?",
+            "How do I fix my hepatitis B?"
+        ],
+        "responses":[
+            "Hepatitis B is a viral infection that attacks the liver and can cause both acute and chronic disease. The virus is most commonly transmitted from mother to child during birth and delivery, as well as through contact with blood or other body fluids during sex with an infected partner, unsafe injections or exposures to sharp instruments."
+        ]
+    },
+    {
+        "tag":"Symptoms of Hepatitis B",
+        "patterns":["What other common signs and symptoms may occur with Hepatitis B?", "Symptoms of Hepatitis B","Hepatitis B"],
+        "responses":["Dark urine or pale bowel movement","Fatigue and weakness","Fever","Loss of appetite, nausea, and vomiting","Pain in the right upper side of his or her abdomen","yellow skin and eyes", "itchy skin","Joint pain and body aches        "]
+    },
+    {
+        "tag":"Deal Hepatitis B or Manage Hepatitis B",
+        "patterns":["What can I do to manage Hepatitis B?", "How to deal Hepatitis B","How to overcome Hepatitis B?"],
+        "responses":["Have your child eat a variety of healthy foods","Have your child drink more liquids","Talk to your adolescent about not drinking alcohol ans smoking"]
+    },
+    {
+        "tag":"Consult doctor regarding Heptitis B",
+        "patterns":["When should I call my doctor?"],
+        "responses":["Your child is vomiting and cannot keep food or liquids down.","Your child is bruising easily.","You have questions or concerns about your child's condition or care"]
+    },
+    {
+        "tag":"hepatitis C",
+        "patterns":[
+            "I think I have hepatitis C",
+            "What is hepatitis C?",
+            "Tell me about hepatitis C",
+            "Can I have some information about hepatitis C?",
+            "How do I support a loved one with hepatitis C?",
+            "How do I fix my hepatitis C?"
+        ],
+        "responses":[
+            "Hepatitis C is an inflammation of the liver caused by the hepatitis C virus. The virus can cause both acute and chronic hepatitis, ranging in severity from a mild illness to a serious, lifelong illness including liver cirrhosis and cancer. The hepatitis C virus is a bloodborne virus and most infection occur through exposure to blood from unsafe injection practices, unsafe health care, unscreened blood transfusions, injection drug use and sexual practices that lead to exposure to blood."
+        ]
+    },
+    {
+        "tag":"Symptoms of Hepatitis C",
+        "patterns":["What other common signs and symptoms may occur with Hepatitis C?", "Symptoms of Hepatitis C","Hepatitis C"],
+        "responses":["Fatigue","Dark urine or pale bowel movements","Jaundice (yellow skin or eyes) and itchy skin","Joint pain, body aches, or weakness","Loss of appetite, nausea, or vomiting"]
+    },
+    {
+        "tag":"Deal Hepatitis C or Manage Hepatitis C",
+        "patterns":["What can I do to manage Hepatitis C?", "How to deal Hepatitis C","How to overcome Hepatitis C?"],
+        "responses":["Talk to your child's healthcare provider about vaccines.","Offer a variety of healthy foods","Have your child drink extra liquids","Talk to your adolescent about not drinking alcohol and smoking"]
+    },
+    {
+        "tag":"Consult doctor regarding Hepatitis C",
+        "patterns":["When should I call my doctor?"],
+        "responses":["Your child has a fever.","Your child's abdomen or legs have a rash or are swollen.","Your child is bruising easily.","You have questions or concerns about your child's condition or care."]
+    },
+    {
+        "tag":"hepatitis D",
+        "patterns":[
+            "I think I have hepatitis D",
+            "What is hepatitis D?",
+            "Tell me about hepatitis D",
+            "Can I have some information about hepatitis D?",
+            "How do I support a loved one with hepatitis D?",
+            "How do I fix my hepatitis D?"
+        ],
+        "responses":[
+            "Hepatitis D virus (HDV) is a virus that requires hepatitis B virus (HBV) for its replication. Hepatitis D virus (HDV) affects globally nearly 5% of people who have a chronic infection with hepatitis B virus (HBV). HDV infection occurs when people become infected with both hepatitis B and D simultaneously (co-infection) or get hepatitis D after first being infected with hepatitis B (super-infection)."
+        ]
+    },
+    {
+        "tag":"Symptoms of Hepatitis D",
+        "patterns":["What other common signs and symptoms may occur with Hepatitis D?", "Symptoms of Hepatitis D","Hepatitis D"],
+        "responses":["Yellow skin and eyes (jaundice)","Stomach upset","Pain in your belly","Fatigue","Not feeling hungry"]
+    },
+    {
+        "tag":"Deal Hepatitis D or Manage Hepatitis D",
+        "patterns":["What can I do to manage Hepatitis D?", "How to deal Hepatitis D","How to overcome Hepatitis D?"],
+        "responses":["Call your doctor right away if you have symptoms of hepatitis D. If you have symptoms of the disease without jaundice, your doctor may not suspect hepatitis."]
+    },
+    {
+        "tag":"Consult doctor regarding Heptitis D",
+        "patterns":["When should I call my doctor?"],
+        "responses":["Your child is vomiting and cannot keep food or liquids down.","Your child is suffering from jaundice.","You have questions or concerns about your child's condition or care"]
+    },
+    {
+        "tag":"Hepatitis E",
+        "patterns":[
+            "I think I have hepatitis E",
+            "What is hepatitis E?",
+            "Tell me about hepatitis E",
+            "Can I have some information about hepatitis E?",
+            "How do I support a loved one with hepatitis E?",
+            "How do I fix my hepatitis E?"
+        ],
+        "responses":[
+            "Hepatitis E is an inflammation of the liver caused by infection with the hepatitis E virus (HEV). The virus is transmitted via the fecal-oral route, principally via contaminated water. Hepatitis E is found worldwide, but the disease is most common in East and South Asia."
+        ]
+    },
+    {
+        "tag":"Symptoms of Hepatitis E",
+        "patterns":["What other common signs and symptoms may occur with Hepatitis E?", "Symptoms of Hepatitis E","Hepatitis E"],
+        "responses":["yellowing of the skin (jaundice)","dark urine","joint pain","a loss of appetite","pain in the abdomen","liver enlargement","nausea","fever","vomiting"]
+    },
+    {
+        "tag":"Deal Hepatitis E or Manage Hepatitis E",
+        "patterns":["What can I do to manage Hepatitis E?", "How to deal Hepatitis E","How to overcome Hepatitis E?"],
+        "responses":["If hepatitis E is suspected and your immune system is not suppressed, you may not need medications. A doctor may advise you to rest, drink plenty of fluids, avoid alcohol, and practice good hygiene until the infection subsides.","For people who have severe acute illness and who are not pregnant, treatment with the medication ribavirin for 21 days has resulted in improved liver function in some small studies."]
+    },
+    {
+        "tag":"Consult doctor regarding Heptitis E",
+        "patterns":["When should I call my doctor?"],
+        "responses":["Your child is vomiting and cannot keep food or liquids down.","Your child is bruising easily.","You have questions or concerns about your child's condition or care"]
     }
 ]
 }
