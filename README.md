@@ -13,3 +13,5 @@
 
 ## Research Paper
 #### We have also written a research paper about our project which you can find inside the zip folder. Along with this we have made a detailed ppt which will tell you briefly about the problem formulation, methodology used and solution. 
+
+## To have a detailed knowledge how pre-processing and model building has been done please go through our research paper and ppt insode zip folder.
