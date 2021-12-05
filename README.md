@@ -6,7 +6,7 @@
 #### Rhythm Goel
 #### Somesh Totlani
 
-#### This project is very special to me as I have learned a lot of things in the process. While building this project me and my team-mates have used different technologies such as tensorflow, pytorch, nltk.
+#### This project is very special to me as I have learned a lot of things in the process. While building this project me and my team-mates have used different technologies such as python,tensorflow, pytorch, nltk.
 
 ## Dataset Building
 #### While building the model the main obstacle was to find a suitable dataset, which we tried to find but was not available on the internet, that's why we had to make our custom dataset. This dataset is going to be very useful for other developers who are in the learning phase. The data-set is available inside the zip folder and people are free to use it.Its' a small contribution to open-source from our side.
