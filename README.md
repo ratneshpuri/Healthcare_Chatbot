@@ -1,6 +1,7 @@
 # Healthcare chatbot 
 
 ## Team-mates:-
+#### Ratnesh Puri Goswami(me)
 #### Rahul Bansal
 #### Parv Arora
 #### Rhythm Goel
